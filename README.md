@@ -4,6 +4,14 @@ A simple Python command-line tool to fetch and display recent public activity fr
 
 ---
 
+## 🌐 Inspired by roadmap.sh
+This project is based on the GitHub User Activity challenge from roadmap.sh, which guides you through building a CLI tool that consumes the GitHub API and shows recent activity in the terminal.
+
+Check the original challenge here:
+[GitHub User Activity - roadmap.sh](roadmap.sh/projects/github-user-activity)
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.x
